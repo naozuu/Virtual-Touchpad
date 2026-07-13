@@ -1,4 +1,4 @@
-# Virtual Touchpad Using Hand Gestures
+# GW TAU KELEN BAKAL MUAK BACA INI, KARENA GW JUGA MUAK WAKTU NYOBANYA :D
 
 A computer-vision-based virtual touchpad that allows users to control the mouse cursor with hand gestures captured through a webcam. The index finger controls cursor movement, while a pinch gesture between the index finger and thumb performs a mouse click.
 
