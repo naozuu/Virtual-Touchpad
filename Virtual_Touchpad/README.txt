@@ -2,7 +2,7 @@
 
 A computer-vision-based virtual touchpad that allows users to control the mouse cursor with hand gestures captured through a webcam. The index finger controls cursor movement, while a pinch gesture between the index finger and thumb performs a mouse click.
 
-> Bahasa Indonesia tersedia pada bagian [Dokumentasi Bahasa Indonesia](#dokumentasi-bahasa-indonesia).
+> Bahasa Indonesia tersedia pada bagian [Dokumentasi Bahasa Indonesia] dibawah
 
 ---
 
